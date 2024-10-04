@@ -10,4 +10,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 sections: []
+metaTitle: trance the best
 ---

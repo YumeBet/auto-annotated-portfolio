@@ -15,6 +15,6 @@ metaDescription: trance the best
 socialImage: /images/19e890e933e23caec2fe1d5ca38941dc.jpg
 metaTags:
   - type: MetaTag
-    property: 'og:title'
+    property: ''
     content: ''
 ---

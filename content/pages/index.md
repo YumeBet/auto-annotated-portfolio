@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/2.png
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: repeat-y
+  backgroundRepeat: no-repeat
   opacity: 100
 sections: []
 ---
